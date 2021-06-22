@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(189, 189, 3);
+}
+body{
+    margin-left: 35px;
+}
+.fotito{
+    display: flex;
+    float: right;
+    margin-right: 45px;
+}
